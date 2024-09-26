@@ -1,0 +1,1 @@
+print("taga asa ka ?")

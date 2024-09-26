@@ -1,0 +1,1 @@
+print("taga bangay gwapo")
